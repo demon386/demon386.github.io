@@ -3,3 +3,20 @@ languageCode = "zh-cn"
 title = "M. Tong's Neverland"
 theme = "kiss"
 markup = "org"
+
+[params.assets]
+customCSS = ["css/custom.css"]
+
+[params.info]
+adsense = "" # Adsense ID (ID only, without ca-pub-)
+enableSocial = false # Adds OpenGraph and Twitter cards
+homeTitle = "" # Title for home page
+poweredby = true # Adds powered by Hugo and Kiss below Copyright section
+
+
+[params.social]
+twitter = "demon386"
+github = "demon386"
+telegram = "demon386"
+rss = "http://mtong.me/index.xml"
+

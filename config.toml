@@ -1,0 +1,5 @@
+baseURL = "http://mtong.me/"
+languageCode = "zh-cn"
+title = "M. Tong's Neverland"
+theme = "kiss"
+markup = "org"

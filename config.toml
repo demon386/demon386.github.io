@@ -18,5 +18,4 @@ poweredby = true # Adds powered by Hugo and Kiss below Copyright section
 twitter = "demon386"
 github = "demon386"
 telegram = "demon386"
-rss = "http://mtong.me/index.xml"
-
+rss = "index.xml"

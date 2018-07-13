@@ -6,18 +6,19 @@
     <description>Recent content in Posts on M. Tong&#39;s Neverland</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Tue, 27 Feb 2018 23:44:39 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 12 Jun 2018 23:44:39 +0800</lastBuildDate>
     
 	<atom:link href="http://mtong.me/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Hello world</title>
-      <link>http://mtong.me/posts/my-first-post/</link>
-      <pubDate>Tue, 27 Feb 2018 23:44:39 +0800</pubDate>
+      <title>如何在大公司用 AI 赋能</title>
+      <link>http://mtong.me/posts/how-to-enable-ai-in-big-company/</link>
+      <pubDate>Tue, 12 Jun 2018 23:44:39 +0800</pubDate>
       
-      <guid>http://mtong.me/posts/my-first-post/</guid>
-      <description>Hello world testdfdfdfdf df df df df</description>
+      <guid>http://mtong.me/posts/how-to-enable-ai-in-big-company/</guid>
+      <description>&lt;ol&gt;
+&lt;li&gt;规则和机器学习都能解决的，一定要用机器学习。&lt;/li&gt;</description>
     </item>
     
   </channel>
